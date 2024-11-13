@@ -1,4 +1,3 @@
-# Dockerfile para backend Slim PHP
 FROM php:8.3-cli
 
 # Instala as dependências do sistema
